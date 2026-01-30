@@ -57,8 +57,7 @@ Package on npm: https://www.npmjs.com/package/n8n-nodes-rich-fields
 
 ## Limits
 
-- Max nesting depth: 10 levels (to keep UI and recursion safe).
-- Array items are positional (no Name). For arrays of objects, choose Item → Type: Object.
+- Max nesting depth: 10 levels (to keep UI and recursion safe)
 
 ## License
 
