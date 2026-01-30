@@ -39,7 +39,7 @@ Output:
 ### Install via Community Nodes (recommended)
 1) In n8n, go to **Settings → Community Nodes → Install**.  
 2) Enter the package name: **`n8n-nodes-rich-fields`**.  
-3) Confirm and restart n8n if prompted.
+3) Confirm.
 
 Package on npm: https://www.npmjs.com/package/n8n-nodes-rich-fields
 
