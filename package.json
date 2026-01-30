@@ -1,0 +1,37 @@
+{
+  "name": "n8n-nodes-rich-fields",
+  "version": "0.1.1",
+  "description": "n8n node to build complex fields (object/array) via UI",
+  "keywords": [
+    "n8n-community-node-package",
+    "fields",
+    "rich",
+    "object",
+    "array"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Custom node"
+  },
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "build": "echo \"Precompiled JS in dist\"",
+    "lint": "echo \"No lint\""
+  },
+  "peerDependencies": {
+    "n8n-core": "*",
+    "n8n-workflow": "*"
+  },
+  "n8n": {
+    "n8nNodesApiVersion": 1,
+    "nodes": [
+      "dist/nodes/RichFields/RichFields.node.js"
+    ]
+  }
+}
