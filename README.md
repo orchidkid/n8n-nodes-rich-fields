@@ -13,6 +13,10 @@ Create complex JSON structures (nested objects and arrays) in n8n via UI. The no
   - Array
 - Outputs a ready JSON object
 
+## Demonstration
+
+https://github.com/user-attachments/assets/c283a51f-00d9-4da6-98a8-85096112fd8a
+
 ## Installation
 
 ### Install via Community Nodes (recommended)
